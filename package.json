@@ -22,7 +22,8 @@
     "object-assign": "^4.1.1",
     "prop-types": "^15.8.1",
     "react-is": "^16.13.1",
-    "react": "^16.14.0"
+    "react": "^16.14.0",
+    "node": "16.17.0"
   },
   "scripts": {
     "build": "cd backend && npm install && cd ../frontend && npm install && npm run build",
