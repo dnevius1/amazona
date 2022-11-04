@@ -48,6 +48,18 @@ const data = {
       numReviews: 10,
       description: 'high quality product',
     },
+    {
+      name: 'Camping Tent',
+      slug: '4-person-tent',
+      category: 'Tents',
+      image: '/images/p3.jpg',
+      price: 189,
+      countInStock: 3,
+      brand: 'Nike',
+      rating: 4.5,
+      numReviews: 14,
+      description: 'high quality product',
+    },
   ],
 };
 export default data;
