@@ -1,8 +1,8 @@
 const data = {
   products: [
     {
-      name: 'Nike Slim Shirt',
-      slug: 'nike-slim-shirt',
+      name: 'Camping Tent',
+      slug: 'camping-tent',
       category: 'Shirts',
       image: '/images/p1.jpg', // 679px x 829px
       price: 120,
